@@ -1,0 +1,2 @@
+Em um arquivo css = propriedade e valor.
+no css a ultima delaclaraç~eo é levada em conta.
